@@ -1,3 +1,6 @@
-# CursoDioJava
 
-Repositório destinados a estudos ministrados no curso Java Básico DIO
+# CURSO DIO | Java Básico
+
+Projetos e atividades feitas refentes ao curso de Java básico da DIO.
+
+
