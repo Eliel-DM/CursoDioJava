@@ -51,20 +51,4 @@ public class CarrinhoDeCompras {
         }
        
     }
-
-
-
-    public static void main(String[] args) {
-        CarrinhoDeCompras car = new CarrinhoDeCompras();
-
-        car.adicionarItem("Colchão", 5, 5);
-        car.adicionarItem("Traveseiro", 5, 5);
-        car.exibirItens();
-        System.out.println(car.calcularValorTotal());
-        car.exibirItens();
-        car.removerItem("Colchão");
-        car.exibirItens();
-        System.out.println(car.calcularValorTotal());
-
-    }
 }
